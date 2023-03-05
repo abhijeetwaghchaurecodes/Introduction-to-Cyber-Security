@@ -1,0 +1,31 @@
+HISTORY OF INTERNET
+
+JCR Licklider was first to propose a global network og computers in 1962. MIT, UCLA were on the front to develop the theory of packet switching.
+Lawrence Roberts moved over to DARPA in 1966 and developed his plan for ARPANET which lefft more unnamed founders of the internet.
+ARPANET was online in 1969 by ARPA (advanced research projects agency). 
+
+Internt was designed to provide communications network that would work even id some major sites were down. most direct route was not available, 
+routers direct traffic around the network via alternate routes.
+
+telnet protocol - enabling logging on to a remote computer, was publishedd in 1972. FTP (file transfer protocol) protocol .
+
+INTERNET was matured in 70s as TCP/IP architechture first proposed by Bob Kahn at BBN. DoD adopted it later.
+Unix to Unix Copy Protocol (UUCP) was invented in 1978 in Bell Labs and connected the unnix systems around the world. BITNET connected all IBM mainframes
+around the world to access the email and other services provided by IBM. 
+
+as no of sites were increasing day by day , tracking was becoming more harder. McGill Uni students creater for ftp files and named as 'Archie' and track them respectively. 
+after archie, Wide Area Information Server (WAIS), which would index the full text of files in a database and allow searches of the files as they were indexed.
+
+first friendly interface to the internet was developed at the Uni of Minnesota. they devveloped a simple menu system. it was named 'GOPHER', it was simple as we clicked on it.
+
+at lasst,in 1989,  Tim Berners Lee and others at CERN (european particle physics research facility) proposed a new protocol for information distribution. this was the WWW (world wide web)
+
+Wireless has grown rapidly in the past few years, and travellers search for the wi-fi "hot spots" where they can connect while they are away from the home or office. 
+Many airports, coffee bars, hotels and motels now routinely provide these services, some for a fee and some for free.
+
+A next big growth area is the surge towards universal wireless access, where almost everywhere is a "hot spot". Municipal wi-fi or city-wide access, 
+wiMAX offering broader ranges than wi-fi, EV-DO, 4g, LTE, and other formats will joust for dominance in the USA in the years ahead. The battle is both economic and political
+
+Another trend that is rapidly affecting web designers is the growth of smaller devices to connect to the Internet. Small tablets, pocket PCs, smart phones, ebooks, game machines, 
+and even GPS devices are now capable of tapping into the web on the go, and many web pages are not designed to work on that scale.
+
