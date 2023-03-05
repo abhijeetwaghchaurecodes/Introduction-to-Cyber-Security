@@ -1,0 +1,33 @@
+HOW INTERNET WORKS?
+
+The Internet is a network of networks—millions of them, actually. If the network at your university, your employer, or in your home has Internet access, 
+it connects to an Internet service provider (ISP).
+
+The Internet has no center and no one owns it. That’s a good thing. The Internet was designed to be redundant and fault-tolerant—meaning that if one network, 
+connecting wire, or server stops working, everything else should keep on running.
+
+first, rising from military research and work at educational inst. the evolution and the operating infrastructure was transitioned more by private firms 
+rather than the government grants.
+
+let's see how it works?
+you need to answer these three questions--
+What are you looking for? Where is it? And how do we get there?
+
+check this domain system img - https://storage.googleapis.com/swayam-node2-production.appspot.com/assets/img/nou20_cs01/Anatomy%20of%20a%20Web%20Address.png
+
+URL - 'http://www.nytimes.com/tech/index.html'
+(1) http - it is the protocol, set of rules for communication, it is the source independent (doesnt matter if  it comes from a mac or pc) 
+
+The Internet supports lots of different applications, and many of these applications use their own application transfer protocol to communicate with each other.
+
+The server that holds your e-mail uses something called SMTP, or simple mail transfer protocol, to exchange mail with other e-mail servers throughout the world.
+similarly there are FTP (file transferr protocol), this is how our web devs upload the webpages, graphics and other files for the Websites.
+
+ex. you're doing  a banking transaction, the http changes to https, the 's' is for secure. 
+
+That means that communications between your browser and server will be encrypted for safe transmission.
+Host and domain names are not case sensitive, so you can use a combination of upper and lower case letters and you’ll still get to your destination.
+
+You don’t always type a path or file name as part of a Web address, but there’s always a file lurking behind the scenes.
+for ex. when you visit 'google.com', the Google always pulls up a page called 'index.html', a file that contains the web page that displays Google logo, 
+the text entry field , the 'Google Search' button, and so on. You might not see but its there..
