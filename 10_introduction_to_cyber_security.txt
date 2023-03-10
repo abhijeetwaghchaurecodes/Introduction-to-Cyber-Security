@@ -1,0 +1,11 @@
+---INTRODUCTION TO CYBER SECURITY---
+
+Info Security is a concept that becomes ever more enmesshed in many aspects of our society.
+
+If the information on the systems used by our employers or our banks becomes exposed to an attacker, the consequences can be dire indeed. We could  suddenly find ourselves  bereft of funds,  
+as the contents of our  bank  account  are transferred  to a bank  in another country  in  the middle  of the  night. 
+
+As, earlier when INTERNET was designed, it was designed for specified professionals and military purpose so there was no such threat to anyone, 
+but as INTERNET grew , it also come up with many threats.
+
+
