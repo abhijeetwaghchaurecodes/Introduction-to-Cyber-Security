@@ -1,0 +1,55 @@
+---KINDS OF CYBER CRIME---
+
+There are various types--
+
+[1] CYBER STALKING -  It is an act of stalking, harassing or threatening someone using Internet/computer as a medium.
+                      Done to defame a person, etc.  as a using Internet as a medium as it offers anonymity.  The behavior includes false accusations, threats, 
+                      sexual exploitation to minors, monitoring, etc. 
+                      
+[2] CHILD PORNOGRAPHY -  It is an act of possessing image or video of a minor (under 18), engaged in sexual conduct.
+
+[3] FORGERY OR COUNTERFEITING - With the advancement in the hardware and the software, it is possible to produce counterfeit which matches the original document to such an extent that 
+                                it is not possible to judge the authenticity of the document without expert judgement.
+                                
+[4] SOFTWARE PIRACY AND CRIME RELATED IPR's - Software piracy is an illegal reproduction and distribution for personal use or business.
+                                              Some of the other crimes under IPR infringement are: download of songs, downloading movies, etc. 
+                                              
+[5] CYBER TERRORISM - It is defined as the use of computer resources to intimidate or coerce government, the civilian population or any segment thereof in furtherance of political or social objectives. 
+
+[6] PHISHING - It is a process of acquiring personal and sensitive information of an individual via email by disguising as a trustworthy entity in an electronic communication. 
+               Purpose is to steal money, personal information, etc. (telephone used - Vishing, sms used - Smishing).
+               
+[7] COMPUTER VANDALISM -  It is an act of physical destroying computing resources using physical force or malicious code. 
+
+[8] COMPUTER HACKING - It is a practice of modifying computer hardware and software to accomplish a goal outside the creator’s original purpose.
+                       Now the corporate are hiring hackers, a person who is engaged in hacking computers, to intentionally hack the computer of an organization to find and fix security vulnerabilities.
+                        
+                       HACKERS MAY CLASSIFIED AS- 
+                       [a] WHITE HAT - white hat hackers are the persons who hack the system to find the security vulnerabilities of a system and notify to the organizations so that a preventive 
+                                       action can be taken to protect the system from outside hackers. they can also be paid or hired. also called as ETHICAL HACKERS.
+                                      
+                       [b] BLACK HAT -  in contrast to the white hat, the black hat hack the system with ill intentions. They find the security loopholes the system, and keep the information 
+                                        themselves and exploit the system for personal or organizational benefits till organization whose system is compromised is aware of this, and apply security patches.
+                                        also called as CRACKERS.
+                       [c] GREY HAT -  Grey hat hackers find out the security vulnerabilities and report to the site administrators and offer the fix of the security bug for a consultancy fee. 
+                       
+                       [d] BLUE HAT -  A blue hat hacker is someone outside computer security consulting firms who is used to bug-test a system prior to its launch, looking for exploits so they can be closed. 
+                       
+[9] CREATING AND DISTRIBUTING VIRUSES OVER THE INTERNET - The spreading of a virus can cause business and financial loss to an organization.
+                                                          The organization can sue the hacker, if found, for the sum of more than or equivalent to the loss borne by the organization. 
+                                                          
+[10] SPAMMING - Sending of unsolicited and commercial bulk message over the internet is known as spamming.
+                These spams not only irritate the recipients and overload the network but also waste the time and occupy the valuable memory space of the mailbox. 
+                
+[11] CROSS SITE SCRIPTING - It is an activity which involves injecting a malicious client side script into a trusted website. As soon as the browser executes the malicious script, the malicious script gets 
+                            access to the cookies and other sensitive information and sent to remote servers. Now this information can be use to gain financial benefit or physical access to a system for personal interest.
+                       
+[12] ONLINE AUCTION FRAUD -  Taking the advantage of the reputation of these websites, some of the cyber criminals lure the customers to online auction fraud schemes which often lead to either over payment of the product 
+                             or the item is never delivered once the payment is made.
+                             
+[13] CYBER SQUATTING - It is an act of reserving the domain names of someone else’s trademark with intent to sell it afterwards to the organization who is the owner of the trademark at a higher price.
+
+[14] LOGIC BOMBS - These are malicious code inserted into legitimate software. The malicious action is triggered by some specific condition. If the conditions holds true in future, the malicious action begins and based on the 
+                   action defined in the malicious code, they either destroy the information stored in the system or make system unusable.
+                   
+***also read about, WEB JACKING, INTERNET TIME THEFTS, DENIAL OF SERVICE ATTACK, SALAMI ATTACK, DATA DIDDLING, EMAIL SPOOFING.
