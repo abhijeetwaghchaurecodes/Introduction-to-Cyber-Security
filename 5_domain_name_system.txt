@@ -1,0 +1,64 @@
+---DOMAIN NAME SYSTEM (DNS)---
+
+The Domain Name System (DNS) is the system used to translate alphanumeric domain names into Internet Protocol numbers. Simply put, the DNS converts the names typed 
+in the Web browser address bar into IP addresses.
+
+Its purpose is to provide a layer of abstraction between Internet services (web, email, etc.) and the numeric addresses (IP addresses) used to uniquely identify 
+any given machine on the Internet.
+
+HOW DOES IT WORKS?
+
+The DNS makes it possible to assign domain names in a meaningful way to Internet resources as well as to users, regardless of the entity's location. 
+As a result, the WWW hyperlinks remain consistent, even for mobile devices. A domain name is an easy way to remember an address, but that needs to be converted to its numerical, IP format.
+
+DNS includes three types of top-level domains: generic (gTLD), country code (ccTLD), and sponsored (sTLD).
+
+Top-Level Domain(TLD)[8]
+Whenever you use a domain name, in a web address(URL), email address, or wherever, it ends in a "top-level domain" or "TLD". This is the last part of the name. We often thing of .COM, .ORG, .NET, etc., as in:
+
+www.disruptiveconversations.COM
+
+www.forimmediaterelease.BIZ
+
+internetsociety.ORG
+
+TLDs are broadly classified into two categories:
+
+a.      generic top-level domains (gTLDs)---
+        The "original" TLDs such as .COM, .ORG, .NET, .GOV, .MIL are all classified as "generic TLDs". 
+
+b.     country code top-level domains (ccTLDs)--
+       ccTLD (Country Code Top-Level Domain): Country code top-level domains(ccTLDs) are two letter TLDs that are assigned to countries based mostly on the ISOC 3166 list of country codes.
+       Some countries have chosen to operate their ccTLD exclusively for domains within their country or geographic territory.
+       For example, the .UK domain as to date required registrations to be under domains such as ".co.uk" and ".org.uk", basically duplicating part of the original gTLD scheme inside their ccTLD.
+       
+c. newgTLD Top-Level Domain
+d. IDN = Internationalised Domain Name
+
+WORLD WIDE WEB (WWW)
+
+The World Wide Web, is a system of interlinked hypertext documents accessed via the Internet. We can view webpages conataining text, images, videos, and other multimedia
+and navigate between them via hyperlinks. Currently Sir Tim-Berners Lee is the director of World Wide Web Consortium and also one of the founding fathers of WWW.
+
+WWW v/s INTERNET: ARE THEY SAME? ----NO
+
+WWW--
+The three Ws that are in the addresses of the websites we access. The world wide web or simply the “web”, is a way to access information through the internet. 
+The web is a model for sharing information that is built on the internet.
+
+Web browsers, such as Chrome or Firefox, enable us to access web documents that we mainly know as web pages or websites. These sites are connected to each other through hyperlinks 
+as if they were on a spider’s web (hence the name), and all this thanks to the transfer protocol: HTTP.
+
+the web is only one of the ways that information can flow through the internet: it is just a portion, and although it is very large and the most popular part, 
+it does not include the whole of the internet.
+
+THE INTERNET---
+The internet is a massive network, the network of networks. The internet connects millions of computers across the globe through a network that enables any computer to be able to 
+communicate with another, no matter where on the planet they are, provided they are both connected to the internet. 
+
+A network is any connection between two or more clients.
+
+web pages such as Twitter, Google, Facebook and even this blog are part of the web and this information travels to us all through the internet.
+
+
+        
