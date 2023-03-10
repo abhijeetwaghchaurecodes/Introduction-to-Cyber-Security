@@ -1,0 +1,32 @@
+---APPLICATIONS OF INTERNET---
+
+Internet have become an essential component of our daily lives. But what does one do with the Internet? May be four things, basically: mail, discussion groups, long-distance computing, and file transfers.
+
+Long-distance computing was an original inspiration for development of ARPANET and does still provide a very useful service on Internet.
+
+Programmers can maintain accounts on distant, powerful computers, execute programs. File transfer service allows Internet users to access remote machines and retrieve programs, data or text.
+
+We can roughly separate internet applications into the following types: online media, online information search, online communications, online communities, online entertainment, e-business, 
+online finance and other applications.
+
+
+USES---
+Communication
+
+Job searches
+
+Finding books and study material
+
+Health and medicine
+
+Travel
+
+Entertainment
+
+Shopping
+
+Stock market updates
+
+Research
+
+Business use of internet.
