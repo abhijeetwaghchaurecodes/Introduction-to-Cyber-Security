@@ -1,0 +1,24 @@
+---INTERNET SERVICE PROVIDER---
+
+Organisations that provide services for accessing, using or participating in the internet. Internet services typically provided by ISPs include Internet access, 
+Internet transit, domain name registration, web hosting, Usenet service, and collocation.
+
+follow this figure- https://storage.googleapis.com/swayam-node2-production.appspot.com/assets/img/nou20_cs01/Internet%20connectivity%20options%20from%20end-user%20to%20tier.png
+
+
+ACCESS PROVIDERS FOR ISP
+Technologies used to connect users to their network--
+
+ Available technologies have ranged from computer modems with acoustic couplers to telephone lines, to television cable (CATV), wireless Ethernet (wi-fi), and fiber optics.
+ ADSL (asymmetric digital subscriber), cable modem or Integrated Services Digital Network (ISDN),ATM (Asynchronous Transfer Mode) and synchronous optical networking (SONET). 
+ Wireless access is another option, including satellite Internet access. 
+
+MAILBOX PROVIDERS
+A mailbox provider is an organization that provides services for hosting electronic mail domains with access to storage for mail boxes. It provides email servers to send, 
+receive, accept, and store email for end users or other organizations.
+
+The task is typically accomplished by implementing Simple Mail Transfer Protocol (SMTP) and possibly providing access to messages through Internet Message Access Protocol (IMAP), 
+the Post Office Protocol, Webmail, or a proprietary protocol.
+
+
+Read more about HOSTING ISP, TRANSIT ISP, VIRTUAL ISP's, FREE ISP's, WIRELESS ISP's.
