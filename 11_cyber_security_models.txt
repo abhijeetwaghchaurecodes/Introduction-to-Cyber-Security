@@ -1,0 +1,8 @@
+----CYBER SECURITY MODELS----
+
+Three of the primary concepts in information security are confidentiality, integrity, and availability, commonly known as the confidentiality, 
+integrity, and availability (CIA) triad.
+
+We may also see the CIA concepts expressed in their negative forms: i.e disclosure, alteration, and denial (DAD).
+
+--CONFIDENTIALITY--
