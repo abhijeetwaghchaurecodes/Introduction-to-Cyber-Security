@@ -1,0 +1,13 @@
+--TACTICS TO ENSURE COMPUTER SECURITY AND MAINTAIN PRIVACY--
+These tactics guides cover the basics of digital security and recommend tools you can use
+Protect your device from malware and hackers :Prevent worms, viruses and trojans
+Protect your information from physical threats : Ensure your workplace and devices are secure
+Create and maintain secure passwords : Learn to manage strong passwords
+Protect the sensitive files on your computer : Learn to encrypt data and files
+Recover from information loss : Back up your devices and data
+Destroy sensitive information : Delete data permanently
+Keep your online communication private : Encrypted chat and email
+Remain anonymous and bypass censorship on the Internet : Using Tor and VPNs
+Protect yourself and your data when using social networking sites : Using Facebook, Twitter and Flickr safely
+Use mobile phones as securely as possible : Staying safe when using cellphones
+Use smartphones as securely as possible : Android and iPhone safety
