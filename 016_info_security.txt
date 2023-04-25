@@ -1,0 +1,15 @@
+---ETHICAL ASPECTS OF INFORMATION SECURITY---
+
+This unit will review ethical aspects of computer and information security and privacy. Ethics is a field of study that is concerned with 
+distinguishing right from wrong, and good from bad. It analyzes the morality of human behaviors, policies, laws and social structures. 
+Ethicists attempt to justify their moral judgments by reference to ethical principles of theories that attempt to capture our moral intuitions 
+about what is right and wrong.
+
+Computer ethics analyzes moral responsibilities of computer professionals and computer users and ethical issues in public policy for information 
+technology development and use. It asks such questions as: 
+- Is it wrong for corporations to read their employee’s e-mail? 
+- Is it morally permissible for computer users to copy copyrighted software? 
+- Should people be free to put controversial or pornographic content online without censorship?
+
+
+
