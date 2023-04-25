@@ -1,0 +1,37 @@
+---COMPUTER SECURITY AND ETHICS---
+
+The Moral Importance of Computer Security--
+The condition resulting from these efforts is also called computer security. The aim of computer security professionals is to attain protection 
+of valuable information and system resources. A distinction can be made between the security of system resources and the security of information or data. 
+The first may be called system security, and the second information security or data security.
+
+--How does computer security pose ethical issues?--
+ethics is mostly concerned with rights, harms and interests.
+A first and perhaps most obvious harm that can occur from breaches of computer security is economic harm. Breaches of information security may 
+come at an even higher economic cost. Valuable data may be lost or corrupted that is worth much more than the hardware on which it is stored, and this 
+may cause severe economic losses.
+
+Breaches of computer security may even cause grave harms like injury and death. This may occur in so-called safety-critical systems, which are computer 
+systems with a component or real-time control that can have a direct life-threatening impact. 
+
+These may include systems that are used for design, monitoring, diagnosis or decision-making, for instance systems used for bridge design or 
+medical diagnosis.
+
+Second, compromises of confidentiality may violate privacy rights. This occurs when information that is accessed includes information about 
+persons that is considered to be private.
+
+--Computer Security and National Security--
+Developments in computer security have been greatly influenced by the September 11, 2001 terrorist attacks in the United States and their aftermath. 
+In response to these attacks, national security has become a major policy concern of Western nations. National security is the maintenance of the 
+integrity and survival of the nation-state and its institutions by taking measures to defend it from threats, particularly threats from the outside. 
+Many new laws, directives and programs protective of national security have come into place in Western nations after 9/11, including the creation in the 
+U.S. of an entire Department of Homeland Security. 
+
+Government computers, but also other public and private infrastructure, including the Internet and telephone network, have been subjected to stepped-up 
+security measures. Secondly, governments have attempted to gain more control over public and private information infrastructures. 
+
+cybersecurity, involves the protection of information infrastructure against threats to national interests. Such threats have come to be defined 
+more broadly than terrorism, and have nowadays come to include all kinds of threats to public order, including internet crime, online child pornography, 
+computer viruses, and racist and hate-inducing websites. At the heart of cybersecurity, however, are concerns for national security, and especially 
+the state’s vulnerability to terrorist attacks.
+
