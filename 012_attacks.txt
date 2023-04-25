@@ -1,0 +1,20 @@
+---ATTACKS---
+We may face attacks from a wide variety of approaches and angles. When we look at what exactly makes up an attack, we can break it down according 
+to the type of attack that it represents, the risk the attack represents, and the controls we might use to mitigate it.
+
+--Types of Attacks--
+Four categories: interception, interruption, modification, and fabrication.
+[1] Interception
+    Interception attacks allow unauthorized users to access our   data, applications, or environments, and are primarily  an attack against confidentiality.
+    
+[2] Interruption
+    Interruption attacks cause our assets to become unusable or unavailable for our use, on a temporary or permanent basis.  
+    Interruption attacks often affect availability but can be an attack on integrity as well. 
+    
+[3] Modification
+    Modification attacks involve tampering with our asset. Such attacks might primarily be considered an integrity attack but 
+    could also represent an availability attack.
+    
+[4] Fabrication
+    Fabrication attacks involve generating data, processes, communications, or other similar activities with a system. Fabrication 
+    attacks primarily affect integrity but could be considered an availability attack as well.
