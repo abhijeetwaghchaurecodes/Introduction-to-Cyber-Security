@@ -1,0 +1,14 @@
+---Threats, Vulnerabilities and Risks---
+
+Threats
+When we spoke of the  types of attacks we might encounter, in the  "Attacks"  earlier  in this chapter, we discussed some of the  things  that  
+have the  potential to cause  harm  to our  assets. Ultimately, this is what a threat is-something that has the potential to cause us harm.
+
+Risk
+Risk is the likelihood that something bad will happen. In order for  us to  have a risk in  a particular environment, we need  to have  both a 
+threat and  a vulnerability that  the  specific  threat can  exploit.
+
+Impact
+Some organizations, such as the U.S.  National  Security Agency  (NSA),  add an  additional factor  to  the  threat/vulnerability/risk equation, in  the  
+form  of impact. If we consider the  value  of  the  asset  being threatened to  be  a factor, this  may  change whether we see  a risk  as 
+being present or  not. 
