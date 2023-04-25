@@ -1,0 +1,12 @@
+---PRIVACY ISSUES IN DATA MANAGAMENT---
+
+--Internet Privacy--
+The Internet raises two kinds of privacy issues. First, the posting and aggregation of personal information on Internet websites s
+ometimes violates privacy. Websites on the Internet contain all sorts of personal information that is made publicly available, often without
+the bearer’s explicit consent. They may contain, for instance, one’s phone number and address,etc
+
+--Record Merging and Matching and Data Mining--
+
+--Biometric Identification--
+
+--Privacy in Public--
