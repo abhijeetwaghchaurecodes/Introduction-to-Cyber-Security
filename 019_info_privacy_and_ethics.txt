@@ -1,0 +1,20 @@
+---INFORMATION PRIVACY AND ETHICS---
+
+ --What is Privacy and Why is It Important?--
+ the right to privacy is defined as the right of individuals to control access or interference by others into their private affairs.
+ The right to privacy is not normally held to be absolute: it must be balanced against other rights and interests, such as the maintenance of 
+ public order and national security. 
+ 
+ --Information Technology and Privacy--
+ Privacy is a value in modern societies that corresponds with the ideal of the autonomous individual who is free to act and decide his 
+ own destiny. Yet, modern societies are also characterized by surveillance, a practice that tends to undermine privacy. 
+ 
+ Corporations, for instance, have extended surveillance from the workplace to their customers (consumer surveillance). In addition, the 
+ 9/11 terrorist attacks have drastically expanded surveillance activities by the state. Many privacy disputes in today’s society result from tensions 
+ between people’s right to privacy and state and corporate interests in surveillance. In the information society, privacy protection is realized 
+ through all kinds of information privacy laws, policies and directives, or data protection policies, as they are often called in Europe. 
+ These policies regulate the harvesting, processing, usage, storage and exchange of personal data.
+ 
+ 
+ 
+ 
