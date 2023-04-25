@@ -1,0 +1,28 @@
+---ETHICAL ISSUES IN COMPUTER SECURITY---
+
+--Hacking and Computer Crime--
+
+A large part of computer security is concerned with the protection of computer resources and data against unauthorized, intentional break-ins or 
+disruptions. Such actions are often called hacking. Hacking, is the use of computer skills to gain unauthorized access to computer resources. 
+Hackers are highly skilled computer users that use their talents to gain such access, and often form communities or networks with other hackers to 
+share knowledge and data. 
+
+The positive impact of hacking, they argue, is that it frees data to the benefit of all, and improves systems and software by exposing security holes. 
+The reconsideration are part of what has been called the hacker ethic or hacker code of ethics, which is a set of (usually implicit) principles that 
+guide the activity of many hackers. 
+
+Both hacking and cracking tend to be unlawful, and may therefore be classified as a form of computer crime, or cybercrime, as it has also been called. 
+There are many varieties of computer crime, and not all of them compromise computer security. There are two major types of cybercrime that compromise 
+computer security: 
+cybertrespass, which is defined as the use of information technology to gain unauthorized access to computer systems or password-protected websites, and
+cybervandalism, which is the use of information technology to unleash programs that disrupt the operations of computer networks or corrupt data.
+
+
+Another type of cybercrime that sometimes includes breaches of computer security, cyberpiracy.  
+Cyberpiracy, also called software piracy, is the use of information technology to reproduce copies of proprietary software or information or 
+to distribute such data across a computer network.
+
+--Cyberterrorism and Information Warfare--
+A recent concern in computer and national security has been the possibility of cyberterrorism, which is defined by Herman Tavani as the execution 
+of “politically motivated hacking operations intended to cause grave harm, that is, resulting in either loss of life or severe economic loss, or both”.
+
