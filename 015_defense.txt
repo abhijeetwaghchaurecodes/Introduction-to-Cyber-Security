@@ -1,0 +1,14 @@
+---DEFENSE IN DEPTH---
+
+Defense in depth is a strategy common to both military maneuvers and  information security.  In  both senses,   the  basic  concept of  defense in 
+depth is to formulate a multilayered defense that  will  allow  us  to  still  mount a successful defense should one  or more of our  defensive measures 
+fail.
+
+One   important concept to note when planning a defensive strategy using defense in depth is that it is not a magic bullet. 
+No matter how  many layers we put  in  place,  or  how  many defensive measures we  place  at each  layer, we  will not  be  able  to  keep  
+every attacker out for  an  indefinite period of time,  nor  is this  the  ultimate goal  of  defense in  depth in  an  information  security setting. 
+The  goal  is to  place  enough defensive measures between our  truly  important assets  and  the  attacker so  that we will both notice that  an attack  
+is in progress and  also  buy  ourselves enough time  to  take  more  active  measures to  prevent the attack from  succeeding.
+
+visit this image url to know the layers of DEFENSE:-
+https://storage.googleapis.com/swayam-node2-production.appspot.com/assets/img/nou19_cs08/defrnse%20in%20each%20layer.jpg
