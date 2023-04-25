@@ -1,0 +1,16 @@
+---CONTROLS---
+categories: physical, logical and administrative
+
+[1] Physical 
+    Physical  controls are  those  controls that  protect the  physical  environment in which our  systems  sit or where  our  data  is stored. 
+    Such controls also control access  in  and  out   of  such  environments. Physical  controls logically  include items   such   as  fences,  gates,  
+    locks, bollards, guards,   and   cameras, but  also include systems  that  maintain the  physical  environment such  as heating and  air conditioning 
+    systems, fire suppression systems, and  backup power generators.
+    
+[2] Logical
+    Logical controls, sometimes called technical controls, are those   that   protect the systems, networks, and environments that process, 
+    transmit and store our data.
+    
+[3] Administrative 
+    Administrative controls are based on rules, laws, policies, procedures, guidelines, and other items that are “paper" in nature. In  essence,   
+    administrative controls set out  the  rules  for  how  we expect  the  users  of our  environment to behave.
